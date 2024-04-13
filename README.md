@@ -1,2 +1,2 @@
 # Econometrics
-Econometrics Code, This is the Python and Rcode for the examples in my Econometrics Course, which is Gretl based
+Econometrics Code, This contains the Grelt, Python and Rcode for the examples in my Econometrics Course, which is Gretl based. The code files are the zipped files, and the remaining files are the data that is necessary to run the courses. For the Gretl scripts (in sessions.zip) it is assumed that you have the wooldridge data sets downloaded on gret. You may also have to change the path statement in your files at the top of each script file so that it can be read.
